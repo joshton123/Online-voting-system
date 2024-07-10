@@ -6,9 +6,7 @@ The Voting Management System is a robust web application developed using PHP and
 
 ### Admin Panel
 - **Manage Elections**: Create, update, and delete election details.
-- **User Authentication**: Ensure only eligible voters can participate.
 - **Dashboard**: Overview of active elections and voter participation.
-- **Access Control**: Admins have the exclusive ability to manage user credentials and view comprehensive election data.
 - **Real-Time Results**: Track and report election results as votes are tallied.
 
 ### Voter Interface
